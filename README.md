@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://blog.vincenthirtz.dev">
-    <img alt="Blog's icon" src="./content/assets/blog-icon.png" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Blog's source code <a href="https://blog.vincenthirtz.dev">blog.vincenthirtz.dev</a>
-</h1>
+
 
 ![Deployment status](https://github.com/vincenthirtzdev/vincenthirtzdev.github.io/workflows/Deployment/badge.svg)
 
