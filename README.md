@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://blog.yoannfleury.dev">
+  <a href="https://blog.vincenthirtz.dev">
     <img alt="Blog's icon" src="./content/assets/blog-icon.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Blog's source code <a href="https://blog.yoannfleury.dev">blog.yoannfleury.dev</a>
+  Blog's source code <a href="https://blog.vincenthirtz.dev">blog.vincenthirtz.dev</a>
 </h1>
 
-![Deployment status](https://github.com/yoannfleurydev/yoannfleurydev.github.io/workflows/Deployment/badge.svg)
+![Deployment status](https://github.com/vincenthirtzdev/vincenthirtzdev.github.io/workflows/Deployment/badge.svg)
 
 > This blog source code is provided by Gatsby. It helped me to set up a blog very quickly. Go check [Gatsby website](https://www.gatsbyjs.org) for more informations about the project.
 
@@ -18,7 +18,7 @@
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd yoannfleurydev.github.io/
+    cd vincenthirtzdev.github.io/
     gatsby develop # or npm run develop
     ```
 
@@ -28,7 +28,7 @@
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `yoannfleurydev.github.io/` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the `vincenthirtzdev.github.io/` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
