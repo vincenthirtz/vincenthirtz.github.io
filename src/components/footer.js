@@ -10,19 +10,19 @@ const Footer = () => {
         </a>
       </div>
       <a
-        href="https://github.com/yoannfleurydev"
+        href="https://github.com/vincenthirtz"
         rel="noopener noreferrer"
         target="_blank"
-        title="Lien vers la page github de Yoann Fleury"
+        title="Lien vers la page github de Vincent Hirtz"
       >
         github
       </a>{" "}
       &bull;{" "}
       <a
-        href="https://mobile.twitter.com/yoannfleurydev"
+        href="https://twitter.com/alukaard76"
         rel="noopener noreferrer"
         target="_blank"
-        title="Lien vers la page twitter de Yoann Fleury"
+        title="Lien vers la page twitter de Vincent Hirtz"
       >
         twitter
       </a>{" "}
