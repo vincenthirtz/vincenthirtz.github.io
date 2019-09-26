@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Blog de Yoann Fleury`,
-    author: `Yoann Fleury`,
-    description: `Partage et présentation de connaissances sur divers sujets`,
-    siteUrl: `https://blog.yoannfleury.dev`,
+    title: `Blog de Vincent Hirtz`,
+    author: `Vincent Hirtz`,
+    description: `Dev, tricks & rock'n'roll`,
+    siteUrl: `https://blog.vincenthirtz.dev`,
     social: {
-      twitter: `yoannfleurydev`,
+      twitter: `alukaard76`,
     },
   },
   plugins: [
@@ -103,7 +103,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Blog de Yoann Fleury",
+            title: "Blog de Vincent Hirtz",
           },
         ],
       },
@@ -111,7 +111,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Blog de Yoann Fleury`,
+        name: `Blog de Vincent Hirtz`,
         short_name: `YoannFleuryDev`,
         start_url: `/`,
         background_color: `#ffffff`,
